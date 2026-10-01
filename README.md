@@ -32,4 +32,4 @@ The game's own "Teams" mode (2 teams) is still there: choose it in the same menu
 Install it with your mod manager, or place the package so the DLL ends up at `BepInEx/plugins/Team_Mode.dll` (BepInEx is required). The Nexus package already contains the `BepInEx/plugins` folders: extract it into the game folder and it replaces the old version.
 
 ## Version
-- `0.3.1`
+- `0.3.2`
